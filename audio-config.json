@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "config": {
+    "new": {
+      "en": { "type": "bundled" },
+      "es": {
+        "type": "downloadable",
+        "download": {
+          "answerZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/spanish/answer_es.zip",
+          "questionZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/spanish/question_es.zip",
+          "questionFilePattern": "question_{n}_es.wav",
+          "answerFilePattern": "answer_{n}_es.wav",
+          "approximateSizeMB": 15,
+          "version": "1"
+        }
+      },
+      "vi": { "type": "bundled" },
+      "zh": {
+        "type": "downloadable",
+        "download": {
+          "answerZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/chinese/answer_zh.zip",
+          "questionZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/chinese/question_zh.zip",
+          "questionFilePattern": "question_{n}_zh.wav",
+          "answerFilePattern": "answer_{n}_zh.wav",
+          "approximateSizeMB": 15,
+          "version": "1"
+        }
+      }
+    },
+    "original": {
+      "en": { "type": "bundled" }
+    }
+  }
+}
+
