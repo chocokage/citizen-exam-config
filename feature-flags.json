@@ -6,7 +6,7 @@
       "description": "Global leaderboard feature"
     },
     "ai_tutor_enabled": {
-      "enabled": true,
+      "enabled": false,
       "description": "Floating AI tutor chat"
     },
     "match_game_enabled": {
