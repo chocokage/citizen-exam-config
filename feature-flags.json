@@ -6,7 +6,7 @@
       "description": "Global leaderboard feature"
     },
     "ai_tutor_enabled": {
-      "enabled": false,
+      "enabled": true,
       "description": "Floating AI tutor chat"
     },
     "match_game_enabled": {
@@ -26,7 +26,7 @@
       "description": "SRS-based smart review / spaced repetition"
     },
     "mock_exam_enabled": {
-      "enabled": false,
+      "enabled": true,
       "description": "Mock exam simulation"
     },
     "timed_challenge_enabled": {
