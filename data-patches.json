@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "patches": {
+    "federal_officials": {
+      "url": "https://raw.githubusercontent.com/chocokage/citizen-exam-config/main/data-patches/federal-officials.json",
+      "version": "1",
+      "sha256": "",
+      "sizeBytes": 0,
+      "bundledInAppVersion": "1.3.8"
+    },
+    "senators": {
+      "url": "https://raw.githubusercontent.com/chocokage/citizen-exam-config/main/data-patches/senators.json",
+      "version": "1",
+      "sha256": "",
+      "sizeBytes": 0,
+      "bundledInAppVersion": "1.3.8"
+    },
+    "governors": {
+      "url": "https://raw.githubusercontent.com/chocokage/citizen-exam-config/main/data-patches/governors.json",
+      "version": "1",
+      "sha256": "",
+      "sizeBytes": 0,
+      "bundledInAppVersion": "1.3.8"
+    },
+    "representatives": {
+      "url": "https://raw.githubusercontent.com/chocokage/citizen-exam-config/main/data-patches/representatives.json",
+      "version": "1",
+      "sha256": "",
+      "sizeBytes": 0,
+      "bundledInAppVersion": "1.3.8"
+    },
+    "state_capitals": {
+      "url": "https://raw.githubusercontent.com/chocokage/citizen-exam-config/main/data-patches/state-capitals.json",
+      "version": "1",
+      "sha256": "",
+      "sizeBytes": 0,
+      "bundledInAppVersion": "1.3.8"
+    }
+  },
+  "audio": {
+    "new_es": {
+      "answerZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/spanish/answer_es.zip",
+      "questionZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/spanish/question_es.zip",
+      "questionFilePattern": "question_{n}_es.wav",
+      "answerFilePattern": "answer_{n}_es.wav",
+      "approximateSizeMB": 15,
+      "version": "1",
+      "bundledInAppVersion": "1.3.8"
+    },
+    "new_zh": {
+      "answerZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/chinese/answer_zh.zip",
+      "questionZipUrl": "https://cdn.jsdelivr.net/gh/chocokage/citizen-exam-config@main/resources/audio/chinese/question_zh.zip",
+      "questionFilePattern": "question_{n}_zh.wav",
+      "answerFilePattern": "answer_{n}_zh.wav",
+      "approximateSizeMB": 15,
+      "version": "1",
+      "bundledInAppVersion": "1.3.8"
+    }
+  }
+}
+
