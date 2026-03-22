@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "flags": {
+    "leaderboard_enabled": {
+      "enabled": true,
+      "description": "Global leaderboard feature"
+    },
+    "ai_tutor_enabled": {
+      "enabled": true,
+      "description": "Floating AI tutor chat"
+    },
+    "match_game_enabled": {
+      "enabled": true,
+      "description": "Match game study mode"
+    },
+    "downloadable_audio_enabled": {
+      "enabled": true,
+      "description": "Downloadable audio packs"
+    },
+    "ota_patches_enabled": {
+      "enabled": true,
+      "description": "OTA data patch system"
+    },
+    "smart_review_enabled": {
+      "enabled": true,
+      "description": "SRS-based smart review / spaced repetition"
+    },
+    "mock_exam_enabled": {
+      "enabled": true,
+      "description": "Mock exam simulation"
+    },
+    "timed_challenge_enabled": {
+      "enabled": true,
+      "description": "Timed challenge mode"
+    },
+    "full_interview_enabled": {
+      "enabled": true,
+      "description": "Full interview simulation"
+    },
+    "n400_interview_enabled": {
+      "enabled": true,
+      "description": "N-400 interview practice"
+    },
+    "listen_type_enabled": {
+      "enabled": true,
+      "description": "Listen & Type dictation practice"
+    },
+    "diagnostic_quiz_enabled": {
+      "enabled": true,
+      "description": "Diagnostic quiz for new users"
+    },
+    "study_plan_enabled": {
+      "enabled": true,
+      "description": "Personalized study plan engine"
+    },
+    "weekly_sprint_enabled": {
+      "enabled": true,
+      "description": "Weekly sprint goal tracking"
+    },
+    "reading_practice_enabled": {
+      "enabled": true,
+      "description": "English reading practice"
+    },
+    "writing_practice_enabled": {
+      "enabled": true,
+      "description": "English writing practice"
+    },
+    "vocab_practice_enabled": {
+      "enabled": true,
+      "description": "N-400 vocabulary practice"
+    },
+    "glossary_enabled": {
+      "enabled": true,
+      "description": "Civic glossary"
+    },
+    "timeline_enabled": {
+      "enabled": true,
+      "description": "US history timeline"
+    },
+    "mistake_journal_enabled": {
+      "enabled": true,
+      "description": "Mistake journal and mistake patterns"
+    },
+    "study_reminders_enabled": {
+      "enabled": true,
+      "description": "Push notification study reminders"
+    },
+    "weekly_report_enabled": {
+      "enabled": true,
+      "description": "Weekly progress report notifications"
+    },
+    "iap_enabled": {
+      "enabled": true,
+      "description": "In-app purchase (remove ads)"
+    },
+    "ads_enabled": {
+      "enabled": true,
+      "description": "Ad banners and interstitials"
+    },
+    "force_update_enabled": {
+      "enabled": true,
+      "description": "Force update check on launch"
+    },
+    "maintenance_mode": {
+      "enabled": false,
+      "description": "When true, show maintenance message instead of online features"
+    }
+  }
+}
+
+
